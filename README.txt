@@ -1,5 +1,13 @@
-1) Extract the whole zip
-
-2) Open "chicken-ui-beta.exe" to start the app.
-
-Open "licenses.html" for information regarding open source software used by the app.
+#ChickenUI-Beta-Windows  
+一个简单的 Scratch 小程序  
+它仅仅使用了 1898 个积木。  
+我们将在 12 月上传新的程序 - NICANM OS。  
+我们的命名来自于 kunkun 。  
+我们的音频来自于网上流传的一些 ... 不知道算不算东西的东西。  
+它像一个操作系统一样，支持的功能有：  
+1.摄像机  
+2.鸡音盒  
+3.每点一下有惊喜  
+4.等等  
+  
+只因你太美！
